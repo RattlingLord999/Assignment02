@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_us1">CONTACT US</string>
+    <string name="textview">TextView</string>
+    <string name="center_for_peace_and_spirituality">Center For Peace And Spirituality</string>
+    <string name="center_for_peace_and_spirituality_njoin_us_now">Center for peace and spirituality\nJoin us now</string>
+</resources>
